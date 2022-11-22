@@ -1,0 +1,24 @@
+.card{
+    width: 35vw;
+    height:40vh ;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top:10vh
+}
+
+.foto{
+    width: 20vw;
+    height:25vh ;
+    position: relative;
+    top:2vh;
+
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+p{
+    color: lightgray;
+}
